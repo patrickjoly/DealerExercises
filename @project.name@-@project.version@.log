@@ -1,0 +1,199 @@
+[2013-03-24 19:03:08,310] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] John,2
+[2013-03-24 19:03:08,315] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] John,2
+[2013-03-24 19:03:08,316] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] Jane,3
+[2013-03-24 19:03:08,316] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] John,1
+[2013-03-24 19:03:08,317] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] Jane,5
+[2013-03-24 19:03:08,319] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] John,2
+[2013-03-24 19:03:08,319] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] Jane,3
+[2013-03-24 19:03:08,320] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] John,1
+[2013-03-24 19:03:08,320] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] Jane,5
+[2013-03-24 19:03:13,545] [com.dealer.client.KeyCounterClient.main()] [] [] [dealer.service.AbstractKeyCounter.executeComputation] John,2
+[2013-03-24 19:03:13,549] [com.dealer.client.KeyCounterClient.main()] [] [] [dealer.service.AbstractKeyCounter.executeComputation] Jane,3
+[2013-03-24 19:03:13,549] [com.dealer.client.KeyCounterClient.main()] [] [] [dealer.service.AbstractKeyCounter.executeComputation] John,4
+[2013-03-24 19:03:13,549] [com.dealer.client.KeyCounterClient.main()] [] [] [dealer.service.AbstractKeyCounter.executeComputation] Jane,5
+[2013-03-24 19:03:13,550] [com.dealer.client.KeyCounterClient.main()] [] [] [dealer.service.AbstractKeyCounter.executeComputation] Jane,55
+[2013-03-24 19:03:13,550] [com.dealer.client.KeyCounterClient.main()] [] [] [dealer.service.AbstractKeyCounter.executeComputation] Patrick,125
+[2013-03-24 19:03:13,550] [com.dealer.client.KeyCounterClient.main()] [] [] [dealer.service.AbstractKeyCounter.executeComputation] Pascal,323
+[2013-03-24 19:03:13,550] [com.dealer.client.KeyCounterClient.main()] [] [] [dealer.service.AbstractKeyCounter.executeComputation] Patrick,35
+[2013-03-24 19:03:13,551] [com.dealer.client.KeyCounterClient.main()] [] [] [dealer.service.AbstractKeyCounter.executeComputation] pascal,22
+[2013-03-24 19:05:22,407] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:05:22,411] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:05:22,412] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:05:22,412] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:05:22,413] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:05:22,415] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:05:22,415] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:05:22,416] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:05:22,417] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:18:04,011] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] No match with your delimiter has been found in source.
+[2013-03-24 19:19:06,579] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] No match with your delimiter has been found in source.
+[2013-03-24 19:20:46,454] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] No match with your delimiter has been found in source.
+[2013-03-24 19:21:39,346] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA:[C@afd218
+[2013-03-24 19:21:39,353] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA:[C@7edb01
+[2013-03-24 19:21:39,378] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:21:39,384] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:21:39,385] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] No match with your delimiter has been found in source.
+[2013-03-24 19:21:39,387] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:21:39,387] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:21:39,389] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:21:39,389] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:21:39,390] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:21:39,391] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:21:39,392] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:21:39,392] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:21:39,393] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:21:39,393] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:22:23,222] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA:[C@1cfe433
+[2013-03-24 19:22:23,228] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA:[C@122100b
+[2013-03-24 19:22:23,254] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:22:23,260] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:22:23,261] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] No match with your delimiter has been found in source.
+[2013-03-24 19:22:23,263] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:22:23,263] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:22:23,265] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:22:23,265] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:22:23,266] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:22:23,267] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:22:23,268] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:22:23,268] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:22:23,269] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:22:23,270] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:22:56,296] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA:[C@87ecb
+[2013-03-24 19:22:56,302] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA:[C@92d4a8
+[2013-03-24 19:22:56,327] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:22:56,333] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:22:56,334] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] No match with your delimiter has been found in source.
+[2013-03-24 19:22:56,336] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:22:56,337] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:22:56,338] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:22:56,338] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:22:56,339] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:22:56,341] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:22:56,341] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:22:56,342] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:22:56,342] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:22:56,343] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:29:04,987] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA
+[2013-03-24 19:29:04,993] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA
+[2013-03-24 19:29:05,021] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:29:05,027] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:29:05,028] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] No match with your delimiter has been found in source.
+[2013-03-24 19:29:05,030] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:29:05,030] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:29:05,031] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:29:05,032] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:29:05,033] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:29:05,034] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:29:05,035] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:29:05,035] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:29:05,036] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:29:05,036] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:30:10,699] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA
+[2013-03-24 19:30:10,705] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA
+[2013-03-24 19:30:10,730] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:30:10,736] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:30:10,736] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] No match with your delimiter has been found in source.
+[2013-03-24 19:30:10,738] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:30:10,738] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:30:10,739] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:30:10,740] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:30:10,741] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:30:10,742] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:30:10,743] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:30:10,743] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:30:10,744] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:30:10,744] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:32:33,970] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] No match with your delimiter has been found in source.
+[2013-03-24 19:34:41,611] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA
+[2013-03-24 19:34:41,617] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA
+[2013-03-24 19:34:41,643] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:34:41,649] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:34:41,649] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] No match with your delimiter has been found in source.
+[2013-03-24 19:34:41,651] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:34:41,651] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:34:41,652] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:34:41,653] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:34:41,654] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:34:41,655] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:34:41,656] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:34:41,656] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:34:41,657] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:34:41,657] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:35:19,001] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA
+[2013-03-24 19:35:19,007] [main] [] [] [dealer.service.PalindromeService.stripAndValidate] the value is either the char in the middle or something like AA
+[2013-03-24 19:35:19,038] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:35:19,044] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:35:19,045] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] No match with your delimiter has been found in source.
+[2013-03-24 19:35:19,046] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:35:19,047] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:35:19,048] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:35:19,049] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:35:19,049] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
+[2013-03-24 19:35:19,051] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] origine source is = John,2
+Jane,3
+John,1
+Jane,5
+[2013-03-24 19:35:19,052] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,2
+[2013-03-24 19:35:19,052] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,3
+[2013-03-24 19:35:19,053] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = John,1
+[2013-03-24 19:35:19,053] [main] [] [] [dealer.service.AbstractKeyCounter.executeComputation] a scanned line = Jane,5
