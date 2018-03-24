@@ -10,7 +10,6 @@ mvn -version
 
 To build everything just run this command on a command line:
 
-mvn clean install
 
 If everything goes fine, you should see something similar as what you see here below:
 That means, the building process is a success and 8 tests has been just running without
